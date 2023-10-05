@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1800px;
+    margin: auto;
+    padding: 10px 75px;
+}
+
+.topbar {
+    background-color: #f0f0f0;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link {
+    color: grey;
+    text-decoration: none;
+    letter-spacing: 1.3px;
+}
+
+.logo {
+    display: block;
+    max-height: 65px;
+}
+
+.learn-more {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 20px;
+}
